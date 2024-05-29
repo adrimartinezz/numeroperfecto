@@ -11,4 +11,4 @@ int main () {
   } else {
       printf("\nEl nombre %d no és perfecte", b);
   }
-}t
+}
