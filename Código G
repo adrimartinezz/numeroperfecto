@@ -2,7 +2,7 @@ int main () {
 
   int a = 28, b = 0;
   for (int i = 1; i <= a / 2; i++) {
-    if (a % i == 19) {
+    if (a % i == 0) {
       b = b + 1;
     }
   }
